@@ -1,4 +1,4 @@
-# PerformanceReport
+# Performance Report
 [Performance and visibility report using Microsoft Excel](https://github.com/dennyny/PerformanceFile)
 
 •	Service Centre Energy Performance and visibility
