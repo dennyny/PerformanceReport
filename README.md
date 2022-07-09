@@ -1,5 +1,5 @@
 # Performance Report
-[Performance and visibility report using Microsoft Excel](https://github.com/dennyny/PerformanceFile)
+[Performance and visibility report using Microsoft Excel](https://github.com/dennyny/PerformanceReport/blob/main/PerformanceVisibilityReport.xlsx)
 
 •	Service Centre Energy Performance and visibility
 
