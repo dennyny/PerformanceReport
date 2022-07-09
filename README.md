@@ -9,7 +9,7 @@
 
 •	Pivot table for advance calculations.
 
-#Overview
+# Overview
 
 For the report, I created metrics and used formulas to check performance of Factory service centres. 
 This can be useful for operational activities for manufacturing, logistics, supply chain and various types of industries. 
