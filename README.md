@@ -13,7 +13,7 @@
 
 For the report, I created metrics and used formulas to check performance of Factory service centres. 
 This can be useful for operational activities for manufacturing, logistics, supply chain and various types of industries. 
-I was able to get data from remote monitoring device to calculate how which power source a service centre is running on and how much visibility have they got at every point in time within a week. 
+I was able to get data from remote monitoring device to calculate which power source and duration on that source a service centre is running on and how much visibility they have got at every point in time within a week. 
 
 ![](/images/RHpic.PNG)
 ![](/images/SHRpic.PNG)
